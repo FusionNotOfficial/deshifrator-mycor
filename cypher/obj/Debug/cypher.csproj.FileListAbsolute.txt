@@ -1,0 +1,7 @@
+F:\Visual Studio\TestProjects\cypher\cypher\bin\Debug\cypher.exe.config
+F:\Visual Studio\TestProjects\cypher\cypher\bin\Debug\cypher.exe
+F:\Visual Studio\TestProjects\cypher\cypher\bin\Debug\cypher.pdb
+F:\Visual Studio\TestProjects\cypher\cypher\obj\Debug\cypher.csproj.AssemblyReference.cache
+F:\Visual Studio\TestProjects\cypher\cypher\obj\Debug\cypher.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\cypher\cypher\obj\Debug\cypher.exe
+F:\Visual Studio\TestProjects\cypher\cypher\obj\Debug\cypher.pdb
